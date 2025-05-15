@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Streamlit cache
+.streamlit/
+
+# Datos y modelos
+*.pkl
+*.csv
+*.db
+data/
+
+# Config
+.env
+.secret
+.DS_Store
