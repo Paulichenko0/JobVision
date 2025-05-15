@@ -56,6 +56,6 @@ streamlit run main.py
 
 ## 👤 Autor
 
-Proyecto creado por [TU NOMBRE]  
-🔗 GitHub: [https://github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+Proyecto creado por [Pablo Igleias Lareo]  
+🔗 GitHub: [https://github.com/TU_USUARIO](https://github.com/Paulichenko0)
 
